@@ -1,6 +1,6 @@
 from pycoproc import Pycoproc
 
-__version__ = '1.4.0'
+__version__ = '1.4.4'
 
 class Pytrack(Pycoproc):
 
